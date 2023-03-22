@@ -1,11 +1,12 @@
-*{
+html{
+    background-color: black;
+    color: white;
+}
+
+.bloque, .formulario{
+    background-color: rgb(24, 24, 24);
     background-color: rgb(97, 152, 49, 0.3);
     border: 3px dashed rgb(172, 240, 69);
     margin: 5px;
     padding: 5px;
-
-    color: white;
-}
-html{
-    background-color: rgb(24, 24, 24);
 }
