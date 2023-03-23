@@ -3,6 +3,11 @@ html{
     color: white;
 }
 
+*{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
 .bloque, .formulario{
     background-color: rgb(24, 24, 24);
     background-color: rgb(97, 152, 49, 0.3);
